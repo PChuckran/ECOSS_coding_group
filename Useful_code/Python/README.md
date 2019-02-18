@@ -1,2 +1,2 @@
 #  Useful Python Code
-# Or snake facts. Either or. 
+Or snake facts. Either or. 
